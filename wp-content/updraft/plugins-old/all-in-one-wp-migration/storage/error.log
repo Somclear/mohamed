@@ -1,0 +1,9 @@
+Feb 08 2024 19:41:06
+{"Number":2,"Message":"fopen(C:\\\\xampp\\\\htdocs\\\\Easy-jobs\\\\wp-content\\\\updraft\\\\backup_2024-02-08-2232_Easy_way_9230bb36dfc9-themes.zip.tmp): Failed to open stream: No such file or directory","File":"C:\\xampp\\htdocs\\Easy-jobs\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-compressor.php","Line":73}
+
+Feb 08 2024 19:41:06
+{"Number":2,"Message":"fopen(C:\\\\xampp\\\\htdocs\\\\Easy-jobs\\\\wp-content\\\\updraft\\\\backup_2024-02-08-2232_Easy_way_9230bb36dfc9-themes.zip.tmp.035d2fce): Failed to open stream: No such file or directory","File":"C:\\xampp\\htdocs\\Easy-jobs\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-compressor.php","Line":73}
+
+Feb 08 2024 19:47:18
+{"Number":2,"Message":"filemtime(): stat failed for C:\\xampp\\htdocs\\Easy-jobs\/wp-content\/uploads\/wpcf7_uploads\/52256783965c52fc61b31e.tmp","File":"C:\\xampp\\htdocs\\Easy-jobs\\wp-content\\plugins\\contact-form-7\\includes\\file.php","Line":367}
+
